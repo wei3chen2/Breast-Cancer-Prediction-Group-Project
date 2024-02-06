@@ -1,7 +1,6 @@
 # Breast-Cancer-Prediction-Group-Project
 Jupyter Notebook, Machine Learning, Tableau, JavaScript, CSS, HTML 
 
-https://github.com/simpelaki/Breast-Cancer-Prediction-Project
 
 ## Problem Statement  
 Breast cancer is one of the most common cancers in women. Our motivation to work on this project
